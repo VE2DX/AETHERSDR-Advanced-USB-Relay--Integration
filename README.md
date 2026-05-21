@@ -33,9 +33,14 @@ While the FlexRadio integration offers a great, low-cost, simple interface, the 
 
 <img width="1146" height="798" alt="image" src="https://github.com/user-attachments/assets/2f2c3f9d-eaeb-423b-bdd3-3299f9379149" />
 
-The present approach by FlexRadio in the latest version as of this document publishing, is flawed in couple different ways. It does not address the specific requirements of SO2R, It lacks flexibility, it does not address the specific requirements for multiband antennas, etc...
+The present approach by FlexRadio in the latest version, as of this document's publication, is flawed in a couple of different ways. It does not address the specific requirements of SO2R. It lacks flexibility and does not address the specific requirements for multiband antennas, etc.
 
 3.1.1- The source is always output oriented, this is ok and gives the user some flexibility, but in SO2R you need to be able to manage a group of output, thus offering an SO2R mode in the top of this window, with added Source pull down in that same upper area and SO2R mode again in that same area would address this concern (item 1 in the image).
 
-3.1.2- The band select or frequency range selection is limited to ONE item, these should be replace by a pull down where, in the band mode would list all the possible bands, and in frequency range mode 
+3.1.2- The band select or frequency range selection is limited to ONE item; this should be replaced by a pull-down where, in the band mode, it would list all the possible bands. And in frequency range mode this pull down would look like the following image.
+
+<img width="472" height="381" alt="image" src="https://github.com/user-attachments/assets/0317f9a2-b919-44ce-8e38-092fe5832ca1" />
+
+
+
 
