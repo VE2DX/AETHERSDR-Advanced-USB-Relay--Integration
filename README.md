@@ -1,6 +1,8 @@
 # AETHERSDR-Advanced-USB-Relay-Integration
 
-Proposed changes in AETHERSDR of USB Relay integration.
+# Introduction
+
+Proposed changes in AETHERSDR of USB Relay integration for a more advanced integration offering more flexibility and better SO2R integration.
 
 # 1- The Author
 
@@ -17,6 +19,7 @@ While a great low-cost, simple interface, the Flexradio integration of USB-based
 
 - A better SO2R integration.
 
-- Adding the CH340é341 chip sets to the Flexradio Radio OS, to be able to support at the radio end more advanced hardware like the WinKeyer
+- Adding the CH340/341 chip sets to the Flexradio Radio OS, to be able to support at the radio end more advanced hardware like the WinKeyer
 
 - and Software Defined Interlock(c) (SDI(c)) to prevent two radios from transmitting or receiving on the same antenna or band.
+
