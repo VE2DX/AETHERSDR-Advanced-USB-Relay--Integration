@@ -2,7 +2,7 @@
 
 # Version
 
-00.01.05 May 24th, 2026 by Richard VE2DX 
+00.01.10 May 24th, 2026 by Richard VE2DX 
 
 References; 
 AETHERSDR Vers.: 26.5.2.1, Mai 2026
