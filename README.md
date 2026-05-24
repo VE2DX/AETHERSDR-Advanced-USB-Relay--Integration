@@ -55,8 +55,7 @@ The present approach by **FlexRadio** in the latest version, as of this document
 
 <img width="472" height="381" alt="image" src="https://github.com/user-attachments/assets/0317f9a2-b919-44ce-8e38-092fe5832ca1" />
 
-#### 3.1.3- The present support of USB chipsets in the radios OS is very limited. Only 
-
+#### 3.1.3- The present support of USB chipsets in the radio's OS is very limited. Only some FTDI chip sets are supported, which limits what users can do.
 
 ### 3.2- AETHERSDR present approach.
 
