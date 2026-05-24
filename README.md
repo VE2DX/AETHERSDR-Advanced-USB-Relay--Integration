@@ -25,7 +25,7 @@ A Canadian-based Ham Radio Electronics company founded in 2020 and closed in lat
 
 This project for the USB relay interfacing as a possible advanced evolution, and added SO2R support will be submitted to the **AETHERSDR team** 
 
-If FlexRadio is interrested in the principles stated in this document they can contact the author for authorisation to implementation in their hardwares, firmware and/or softwares.
+If FlexRadio is interrested in the principles stated in this document they must contact the author for authorisation to implementation in their hardwares, firmware and/or softwares.
 
 While the **FlexRadio** integration of the 8-bit USB Relay PCB offers a great, low-cost, simple interface, the USB-based relay integration for antenna and other automated control, it lacks some badly needed improvements. Among those;
 
