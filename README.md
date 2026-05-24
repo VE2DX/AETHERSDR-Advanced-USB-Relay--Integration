@@ -120,7 +120,7 @@ At present the **AETHERSDR** implementation of the 8-BIT USB Relay PCB is at its
 - this should ONLY show up if the **MODE** option fro, 3.2.5 is set to **SO2R**
 - It should trigger a pulldown menu with the following options; (See 3.2.9
 
-#### 3.2.8- Add to the _Cable Setting_ area a new pulldown menu titled _source_, this should ONLY show up if the _MODE_ option fro, 3.2.5 is set to SO2R. It should trigger a pulldown menu with the following options; (See 3.2.9)
+#### 3.2.9- The present list of source in AETHERSDR is limited, it should be changed to match the FlexRadio present list.
 
 **Todo**: 
 Change the sources to match the Flexradio reference:
