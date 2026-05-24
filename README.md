@@ -87,3 +87,6 @@ At present the **AETHERSDR** implementation of the 8-BIT USB Relay PCB is at its
 
 **Todo**: Add to the **Cable Setting** area a new pulldown menu titled **SO2R MODE**, this should this should ONLY show up if the _MODE_ option fro, 3.2.5 is set to SO2R. It should trigger a pulldown menu with the following options; Antenna, Band Pass Filter (BPF). By default the ANTENNA should be shown, once changed the new selection should always be shown and remembered.
 
+#### 3.2.7- Add to the _Cable Setting_ area a new pulldown menu titled _source_, this should ONLY show up if the _MODE_ option fro, 3.2.5 is set to SO2R. It should trigger a pulldown menu with the following options; Antenna, Band Pass Filter (BPF)
+
+**Todo**: 
