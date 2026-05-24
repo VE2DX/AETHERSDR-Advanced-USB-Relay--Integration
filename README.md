@@ -2,7 +2,7 @@
 
 ## Version
 
-00.01.15 May 24th, 2026 by Richard VE2DX 
+00.01.20 May 24th, 2026 by Richard VE2DX 
 
 ## References;
 
@@ -23,7 +23,7 @@ A Canadian-based Ham Radio Electronics company founded in 2020 and closed in lat
 
 ## 2- Context
 
-This project will be submitted to the **AETHERSDR team** of the USB relay interfacing as a possible advanced evolution, and added SO2R support.
+This project for the USB relay interfacing as a possible advanced evolution, and added SO2R support will be submitted to the **AETHERSDR team** 
 
 If FlexRadio is interrested in the principles stated in this document they can contact the author for authorisation to implementation in their hardwares, firmware and/or softwares.
 
