@@ -113,13 +113,17 @@ At present the **AETHERSDR** implementation of the 8-BIT USB Relay PCB is at its
 - By default the ANTENNA should be shown.
 - Once changed the new selection should always be shown and remembered.
 
-#### 3.2.7- Add to the _Cable Setting_ area a new pulldown menu titled _source_, this should ONLY show up if the _MODE_ option fro, 3.2.5 is set to SO2R. It should trigger a pulldown menu with the following options; (See List below)
+#### 3.2.8- Add to the _Cable Setting_ area a new pulldown menu titled _source_, this should ONLY show up if the _MODE_ option fro, 3.2.5 is set to SO2R. It should trigger a pulldown menu with the following options; (See 3.2.9)
 
 **Todo**: 
 - Add to the **Cable Setting** area a new pulldown menu titled **SOURCE**
 - this should ONLY show up if the **MODE** option fro, 3.2.5 is set to **SO2R**
-- It should trigger a pulldown menu with the following options;
-    The sources are:
+- It should trigger a pulldown menu with the following options; (See 3.2.9
+
+#### 3.2.8- Add to the _Cable Setting_ area a new pulldown menu titled _source_, this should ONLY show up if the _MODE_ option fro, 3.2.5 is set to SO2R. It should trigger a pulldown menu with the following options; (See 3.2.9)
+
+**Todo**: 
+Change the sources to match the Flexradio reference:
   - TX Slice; The cable will report the frequency of the slice receiver that holds the Transmit Indicator.
   - Active Slice; The cable will report the frequency of the active slice receiver (the slice that has the yellow cursor).
   - TX Panadapter - The cable will report the center frequency of the panadapter that contains the transmit slice.
