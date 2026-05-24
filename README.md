@@ -31,7 +31,10 @@ While the **FlexRadio** integration of the 8-bit USB Relay PCB offers a great, l
 
 #### - The possibility to assign multiple bands or frequency ranges to a single relay output to address multiband antennas like a common 80/40 dipole or the very common tribander yagi.
 
-#### - A better SO2R integration, where two remote antenna switching boxes or an SO2R remote antenna box can be managed TOGETHER to prevent radio damage from improper antenna selection, better BanPass Filter support, and better integration of multiple USB Relay PCB.
+#### - A better SO2R integration, where two remote antenna switching boxes or an SO2R remote antenna box can be managed.
+
+#### Better BanPass Filter support.
+#### Better integration of multiple USB Relay PCB.
 
 #### - Adding CH340/341 chip sets to the Flexradio Radio OS, to be able to support, at the radio end, more advanced hardware like 16 relay USB PCBs, the WinKeyer, etc...
 
