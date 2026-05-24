@@ -57,6 +57,28 @@ _Insert Image here_
 
 At present the **AETHERSDR** implementation of the 8-BIT USB Relay PCB is at its begining being in the early days of the project. it has a couple of bugs that will be pointed out in this document that are probably related to the fact that this portion of the project is not finished.
 
+### BUG:
+
+**Bug 1:** The Band/Frequency field (last column) does not work.
+**Bug 2:** If enter is keyed at anytime within the window, the USB Cables window crashes and can only be recalled if the AETHERSDR is closed and restarted.
+**Bug 3:** The **EN (Enable)** selection can not be selected from the Keyboard (Only from the mouse).
+
 #### 3.2.1- In the present AETHERSDR USB popup screen shown above, the _BIT_ column indicating the relay being used, is way to wide this should be only three characters wide.
 
-Todo: Change the **_BIT_** column to 3 characters wide.
+**Todo**: Change the **_BIT_** column to 3 characters wide.
+
+#### 3.2.2- In the present AETHERSDR USB popup screen shown above, the _EN_ (Enable) column indicating the relay being used, is way to wide this should be only three characters wide.
+
+**Todo**: Change the **_EN_ (Enable)** column to 3 characters wide.
+
+#### 3.2.3- In the present AETHERSDR USB popup screen shown above, the _EN_ (Enable) column indicating the relay being used, does not have any clear indicator to the position of the BOX, this box should be framed.
+
+**Todo**: Frame the **_EN_ (Enable)** boxes to make their presence more obvious.
+
+#### 3.2.4- Add to the _Cable Setting_ area a new pulldown menu titled _MODE_, this should trigger a pulldown menu with the following options; Manual, SO2R
+
+**Todo**: Add to the **Cable Setting** area a new pulldown menu titled **MODE**, this should trigger a pulldown menu with the following options; Manual, SO2R.  By default the Manual should be shown, once changed the new selection should always be shown and remembered.
+
+#### 3.2.4- Add to the _Cable Setting_ area a new pulldown menu titled _MODE_, this should trigger a pulldown menu with the following options; Manual, SO2R
+
+**Todo**: Add to the **Cable Setting** area a new pulldown menu titled **MODE**, this should trigger a pulldown menu with the following options; Manual, SO2R.  By default the Manual should be shown, once changed the new selection should always be shown and remembered.
