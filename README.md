@@ -23,7 +23,7 @@ Proposed changes in **AETHERSDR** of USB Relay integration for a more **advanced
 
 ## 2- Context
 
-This project is for an advanced evolution in **AETHERSDR** of the USB relay interface, and adds SO2R and SDI(c) support. It will be submitted to the **AETHERSDR team** 
+This project is for an advanced evolution in **AETHERSDR** of the USB relay interface, and adds SO2R and SDI(c) support. It will be submitted to the **AETHERSDR team**.
 
 If FlexRadio is interested in the principles stated in this document, they must contact the author for authorization to implement them in their hardware, firmware, and/or software.
 
