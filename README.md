@@ -1,5 +1,9 @@
 # AETHERSDR-Advanced-USB-Relay-Integration    
 
+## Copyright
+
+**Copyright (c)2020-2026 Richard G. Desaulniers Sr., VE2DX, All Rights Reserved.**
+
 ## Version
 
 00.01.25 May 25th, 2026 by Richard VE2DX 
