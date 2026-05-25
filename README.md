@@ -130,12 +130,12 @@ At present, the **AETHERSDR** implementation of the 8-BIT USB Relay PCB is in it
 
 **Todo**: 
 Change the sources to match the **FlexRadio** reference:
-  **- TX Slice:** The cable will report the slice receiver frequency that holds the Transmit Indicator.
-  **- Active Slice:** The cable will report the frequency of the active slice receiver (the slice that has the yellow cursor).
-  **- TX Panadapter:** The cable will report the center frequency of the panadapter that contains the transmit slice.
-  **- Specific Slice:** The cable will report the frequency of the specified slice (A, B, C, D, E, F, G, H).
-  **- RX Antenna:** The cable will report the frequency of the specified receive antenna (ANT1, ANT2, XVTR, RXA, RXB).
+  - **TX Slice:** The cable will report the slice receiver frequency that holds the Transmit Indicator.
+  - **Active Slice:** The cable will report the frequency of the active slice receiver (the slice that has the yellow cursor).
+  - **TX Panadapter:** The cable will report the center frequency of the panadapter that contains the transmit slice.
+  - **Specific Slice:** The cable will report the frequency of the specified slice (A, B, C, D, E, F, G, H).
+  - **RX Antenna:** The cable will report the frequency of the specified receive antenna (ANT1, ANT2, XVTR, RXA, RXB).
 Note: If multiple slices are on the same RX Antenna, then the frequency of the last tuned slice will be reported.
-  **- TX Antenna:** The cable will report the frequency of the specified transmit antenna (ANT1, ANT2, XVTR). Note: This frequency is only changed/reported when the TX Slice is connected to the specified antenna.
+  - **TX Antenna:** The cable will report the frequency of the specified transmit antenna (ANT1, ANT2, XVTR). Note: This frequency is only changed/reported when the TX Slice is connected to the specified antenna.
 
 #### 3.2.10- The present _AETHERSDR_ version does not support PTT (See (3) on Flexradio image 3.1). This is important in some setups. As per FlexRadio reference, "When set, the wire will become active only when the radio is in transmit, and the source frequency is within the output band/frequency range. Individual wire PTT and TX Delays can be set and will be used by the radio when keyed."
