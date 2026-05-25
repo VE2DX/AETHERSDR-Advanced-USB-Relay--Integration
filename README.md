@@ -2,7 +2,7 @@
 
 ## Version
 
-00.01.20 May 24th, 2026 by Richard VE2DX 
+00.01.25 May 25th, 2026 by Richard VE2DX 
 
 ## References;
 
@@ -12,14 +12,14 @@
 
 **"USB Cables Interface Guide for the FLEX-6000"** Version 1.6.1, 26 July 2019
 
-## Introduction
-
-Proposed changes in **AETHERSDR** of USB Relay integration for a more **advanced integration** offering more **flexibility** and better **SO2R integration**.
-
-## 1- The Author
+## Author
 
 **Richard G. Desaulniers Sr.**, **VE2DX**, was the Owner, President, and Lead designer at **VE2DX Electronics Design Inc.**
 A Canadian-based Ham Radio Electronics company founded in 2020 and closed in late 2025 following worldwide economic instability.
+
+## 1- Introduction
+
+Proposed changes in **AETHERSDR** of USB Relay integration for a more **advanced integration** offering more **flexibility** and better **SO2R integration**.
 
 ## 2- Context
 
